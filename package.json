@@ -1,0 +1,14 @@
+{
+  "name": "siclich",
+  "description": "socket.io command line chat server and client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "socket.io": "^1.1.0",
+    "socket.io-client": "^1.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.11.1"
+  }
+}
